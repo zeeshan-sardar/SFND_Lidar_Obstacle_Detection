@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sensor Fusion Self-Driving Car Course
 
 <img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
@@ -62,3 +63,6 @@ NOTE: very old version
 [PCL Source Github](https://github.com/PointCloudLibrary/pcl)
 
 [PCL Mac Compilation Docs](http://www.pointclouds.org/documentation/tutorials/compiling_pcl_macosx.php)
+=======
+# SFND_Lidar_Obstacle_Detection
+>>>>>>> d9a7f9ddbfce5e9766fa8f43344fd9b869f33925
